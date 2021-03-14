@@ -14,7 +14,6 @@ export default function Chat({
   timestamp,
   read,
   imageUrl,
-
   profilePic,
 }) {
   const dispatch = useDispatch();
